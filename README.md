@@ -3,8 +3,8 @@ homeworks,pictures,etc. of computational physics made by Yu Chang Xiong
 
 ##homework_list
 
-- [ ] [Exercise_03:
-All levels](https://www.zybuluo.com/RobertYulius/note/498106)
+- [ ] [Exercise_02:
+spell your English name on the screen](https://www.zybuluo.com/RobertYulius/note/498106)
 
 - [ ] [Exercise_04:
 Chapter 1 problem 1.5:
