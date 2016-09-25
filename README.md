@@ -6,9 +6,8 @@ homeworks,pictures,etc. of computational physics made by Yu Chang Xiong
 - [ ] [Exercise_02:
 spell your English name on the screen](https://www.zybuluo.com/RobertYulius/note/498106)
 
-- [ ] [Exercise_04:
-Chapter 1 problem 1.5:
-the decay of two kinds of particles](https://www.zybuluo.com/RobertYulius/note/498113)
+- [ ] [Exercise_03:
+move your name on the screen](https://www.zybuluo.com/RobertYulius/note/498113)
 
 - [ ] [Exercise_05:
 Chapter 1 problem 1.6:
