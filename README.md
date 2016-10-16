@@ -13,8 +13,8 @@ move your name on the screen](https://www.zybuluo.com/RobertYulius/note/498113)
 Chapter 1 problem 1.5:
 the decay of two kinds of particles](https://www.zybuluo.com/RobertYulius/note/498120)
 
-- [ ] [Exercise_06:
-Chapter 2 problem 2.9&2.10:
+- [ ] [Exercise_05:
+Chapter 2 problem 2.6:
 the cannon](https://www.zybuluo.com/RobertYulius/note/498130)
 
 - [ ] [Exercise_07:
