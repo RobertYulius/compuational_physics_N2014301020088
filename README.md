@@ -17,7 +17,7 @@ the decay of two kinds of particles](https://www.zybuluo.com/RobertYulius/note/4
 Chapter 2 problem 2.6:
 the cannon](https://www.zybuluo.com/RobertYulius/note/498130)
 
-- [ ] [Exercise_07:
+- [ ] [Exercise_06:
 Chapter 2 problem 2.10:
 the cannon in advance](https://www.zybuluo.com/RobertYulius/note/498135)
 
