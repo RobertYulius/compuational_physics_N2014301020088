@@ -18,8 +18,8 @@ Chapter 2 problem 2.6:
 the cannon](https://www.zybuluo.com/RobertYulius/note/498130)
 
 - [ ] [Exercise_07:
-Chapter 2 problem 2.19:
-the spin of baseball and Visual motion of baseball](https://www.zybuluo.com/RobertYulius/note/498135)
+Chapter 2 problem 2.10:
+the cannon in advance](https://www.zybuluo.com/RobertYulius/note/498135)
 
 - [ ] [Exercise_08:
 Chapter 3 problem 3.4:
