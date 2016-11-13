@@ -23,11 +23,11 @@ the cannon in advance](https://www.zybuluo.com/RobertYulius/note/498135)
 
 - [ ] [Exercise_07:
 Chapter 3 problem 3.12:
-non-linear oscillator](https://www.zybuluo.com/RobertYulius/note/498137)
+](https://www.zybuluo.com/RobertYulius/note/498137)
 
 - [ ] [Exercise_08:
 Chapter 3 problem 3.18:
-strange attractor](https://www.zybuluo.com/RobertYulius/note/498140)
+](https://www.zybuluo.com/RobertYulius/note/498140)
 
 - [ ] [Exercise_10:
 Chapter 3 problem 3.31:
