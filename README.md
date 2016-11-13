@@ -21,12 +21,12 @@ the cannon](https://www.zybuluo.com/RobertYulius/note/498130)
 Chapter 2 problem 2.10:
 the cannon in advance](https://www.zybuluo.com/RobertYulius/note/498135)
 
-- [ ] [Exercise_08:
-Chapter 3 problem 3.4:
+- [ ] [Exercise_07:
+Chapter 3 problem 3.12:
 non-linear oscillator](https://www.zybuluo.com/RobertYulius/note/498137)
 
-- [ ] [Exercise_09:
-Chapter 3 problem 3.16:
+- [ ] [Exercise_08:
+Chapter 3 problem 3.18:
 strange attractor](https://www.zybuluo.com/RobertYulius/note/498140)
 
 - [ ] [Exercise_10:
