@@ -3,29 +3,29 @@ homeworks,pictures,etc. of computational physics made by Yu Chang Xiong
 
 ##homework_list
 
-- [-] [Exercise_02:
+- [x] [Exercise_02:
 spell your English name on the screen](https://www.zybuluo.com/RobertYulius/note/498106)
 
-- [-] [Exercise_03:
+- [x] [Exercise_03:
 move your name on the screen](https://www.zybuluo.com/RobertYulius/note/498113)
 
-- [-] [Exercise_04:
+- [x] [Exercise_04:
 Chapter 1 problem 1.5:
 the decay of two kinds of particles](https://www.zybuluo.com/RobertYulius/note/498120)
 
-- [-] [Exercise_05:
+- [x] [Exercise_05:
 Chapter 2 problem 2.6:
 the cannon](https://www.zybuluo.com/RobertYulius/note/498130)
 
-- [-] [Exercise_06:
+- [x] [Exercise_06:
 Chapter 2 problem 2.10:
 the cannon in advance](https://www.zybuluo.com/RobertYulius/note/498135)
 
-- [-] [Exercise_07:
+- [x] [Exercise_07:
 Chapter 3 problem 3.12:
 ](https://www.zybuluo.com/RobertYulius/note/498137)
 
-- [-] [Exercise_08:
+- [x] [Exercise_08:
 Chapter 3 problem 3.18:
 ](https://www.zybuluo.com/RobertYulius/note/498140)
 
