@@ -31,7 +31,7 @@ Chapter 3 problem 3.18:
 
 - [ ] [Exercise_09:
 Chapter 3 problem 3.30:
-Lyapunov exponent on different $\alpha$](https://www.zybuluo.com/RobertYulius/note/498142)
+Billiard ball on diverse table](https://www.zybuluo.com/RobertYulius/note/498142)
 
 - [ ] [Exercise_11:
 Chapter 4 problem 4.11:
