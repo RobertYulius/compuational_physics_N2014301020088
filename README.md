@@ -29,9 +29,9 @@ Chapter 3 problem 3.12:
 Chapter 3 problem 3.18:
 ](https://www.zybuluo.com/RobertYulius/note/498140)
 
-- [ ] [Exercise_10:
-Chapter 3 problem 3.31:
-billiard ball on diverse table](https://www.zybuluo.com/RobertYulius/note/498142)
+- [ ] [Exercise_09:
+Chapter 3 problem 3.30:
+Lyapunov exponent on different $\alpha$](https://www.zybuluo.com/RobertYulius/note/498142)
 
 - [ ] [Exercise_11:
 Chapter 4 problem 4.11:
