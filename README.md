@@ -29,7 +29,7 @@ Chapter 3 problem 3.12:
 Chapter 3 problem 3.18:
 ](https://www.zybuluo.com/RobertYulius/note/498140)
 
-- [ ] [Exercise_09:
+- [x] [Exercise_09:
 Chapter 3 problem 3.30:
 Billiard ball on diverse table](https://www.zybuluo.com/RobertYulius/note/498142)
 
