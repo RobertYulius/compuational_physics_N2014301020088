@@ -33,9 +33,9 @@ Chapter 3 problem 3.18:
 Chapter 3 problem 3.30:
 Billiard ball on diverse table](https://www.zybuluo.com/RobertYulius/note/498142)
 
-- [ ] [Exercise_11:
-Chapter 4 problem 4.11:
-the percession of Mercury](https://www.zybuluo.com/RobertYulius/note/498144)
+- [x] [Exercise_10:
+Chapter 4 problem 4.9:
+the instability of orbits](https://www.zybuluo.com/RobertYulius/note/498144)
 
 - [ ] [Exercise_12:
 Chapter 4 problem 4.18:
