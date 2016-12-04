@@ -37,9 +37,9 @@ Billiard ball on diverse table](https://www.zybuluo.com/RobertYulius/note/498142
 Chapter 4 problem 4.9:
 the instability of orbits](https://www.zybuluo.com/RobertYulius/note/498144)
 
-- [ ] [Exercise_12:
-Chapter 4 problem 4.18:
-the Kirkwood Gap](https://www.zybuluo.com/mdeditor#498185)
+- [x] [Exercise_11:
+Chapter 4 problem 4.19:
+the the behavior of Hyperion](https://www.zybuluo.com/mdeditor#498185)
 
 - [ ] [Exercise_13:
 Chapter 5 problem 5.7:
