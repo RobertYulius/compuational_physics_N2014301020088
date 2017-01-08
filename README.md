@@ -49,5 +49,5 @@ the Jacobi method v.s. The SOR Algorithm](https://www.zybuluo.com/RobertYulius/n
 Chapter 6 problem 6.15:
 the realistic string problem](https://www.zybuluo.com/mdeditor#498190)
 
-- [ ] [Final project:
-用轨道能量分析Kirkwood Gap的缝宽](https://www.zybuluo.com/RobertYulius/note/498191)
+- [x] [Final project:
+Random walk](https://www.zybuluo.com/RobertYulius/note/498191)
